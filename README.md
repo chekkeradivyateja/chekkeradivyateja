@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @chekkeradivyateja
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning Java, JavaScript, and SQL for backend
-- 💞️ I’m looking to collaborate on full-stack projects and web applications
-- 📫 How to reach me: chakkeradivyateja@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love creating responsive web designs that adapt seamlessly to different screen sizes!
-
+👋 Hi, I’m @chekkeradivyateja  
+🔬 I’m passionate about VLSI design and verification  
+📘 I’m currently learning and working on SystemVerilog and UVM methodologies  
+💡 I’m interested in collaborating on RTL design, functional verification, and chip-level simulation projects  
+📫 How to reach me: chakkeradivyatejareddy@gmail.com  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy debugging testbenches and optimizing verification workflows more than coffee!  
 
 <!---
 chekkeradivyateja/chekkeradivyateja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
