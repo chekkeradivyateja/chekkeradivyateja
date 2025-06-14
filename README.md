@@ -1,6 +1,6 @@
 👋 Hi, I’m @chekkeradivyateja  
 🔬 I’m passionate about VLSI design and verification  
-📘 I’m currently learning and working on SystemVerilog and UVM methodologies  
+📘 I’m currently learning and working on SystemVerilog and UVM methodology  
 💡 I’m interested in collaborating on RTL design, functional verification, and chip-level simulation projects  
 📫 How to reach me: chakkeradivyatejareddy@gmail.com  
 😄 Pronouns: He/Him  
